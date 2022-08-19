@@ -1,6 +1,6 @@
-# Airbnb pricing in the Berlin region
+# Airbnb pricing in the Berlin region 🏡
 
-What insights can we gain from an exploratory data analysis (EDA) and a simple linear regression model? 🏠
+What insights can we gain from an exploratory data analysis (EDA) and a simple linear regression model? 
 
 ### Objective
 
